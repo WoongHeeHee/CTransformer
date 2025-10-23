@@ -1,16 +1,3 @@
-'''
-[24/06/19 patch note]
-- Adding 'PositionalEncoding' Class
-- Modifying 'PositionWiseFeedForward' method
-
-[24/06/21 patch note]
-- Adding 'ComplexLinear' Class
-- Modifying nn.Linear to ComplexLinear
-
-[24/06/23 patch note]
-- Adding File Opening Code
-'''
-
 import torch
 import torch.nn as nn
 import torch.optim as optim

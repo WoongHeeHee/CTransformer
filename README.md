@@ -1,5 +1,9 @@
 # CTransformer
 
+### 해당 프로젝트는 Raw_code.py가 원본이며, 기능별 파일구조 및 코드 분할은 cursor agent내에서 진행했습니다.
+#### 현재 README.md 작성중
+
+
 이 파일 (`README.md`)는 **마크다운** 포맷으로 작성되었습니다.
 
 아래 수식은 LaTex (Mathjax)로 작성했습니다.
